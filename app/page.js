@@ -164,7 +164,7 @@ export default function PVMSkaiciuokle() {
             </svg>
           </div>
           <div style={styles.logoText}>
-            <span style={styles.brandName}>PVM<span style={styles.brandAccent}>.lt</span></span>
+            <span style={styles.brandName}>Skaičiuok<span style={styles.brandAccent}>PVM</span></span>
             <span style={styles.brandTagline}>Lietuvos PVM Skaičiuoklė</span>
           </div>
         </div>
@@ -490,7 +490,7 @@ export default function PVMSkaiciuokle() {
       <footer style={styles.footer}>
         <div style={styles.footerContent}>
           <div style={styles.footerBrand}>
-            <span style={styles.footerLogo}>PVM<span style={{color: '#2E7D4A'}}>.lt</span></span>
+            <span style={styles.footerLogo}>Skaičiuok<span style={{color: '#2E7D4A'}}>PVM</span></span>
           </div>
           <p style={styles.footerDisclaimer}>
             Ši skaičiuoklė skirta tik informaciniams tikslams. 
