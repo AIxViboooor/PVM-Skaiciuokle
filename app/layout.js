@@ -1,12 +1,12 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'PVM Skaičiuoklė | Lietuvos PVM Kalkuliatorius',
+  title: 'PVM Skaičiuoklė | SkaiciuokPVM.lt',
   description: 'Nemokama Lietuvos PVM skaičiuoklė. Greitai apskaičiuokite PVM 21%, 9%, 5% tarifais. Pridėkite arba atimkite PVM nuo sumos. Procentų skaičiuoklė.',
   keywords: 'PVM skaičiuoklė, PVM kalkuliatorius, Lietuva, PVM 21%, pridėti PVM, atimti PVM, mokesčiai, procentų skaičiuoklė, VMI',
-  authors: [{ name: 'PVM.lt' }],
+  authors: [{ name: 'SkaiciuokPVM.lt' }],
   openGraph: {
-    title: 'PVM Skaičiuoklė | Lietuvos PVM Kalkuliatorius',
+    title: 'PVM Skaičiuoklė | SkaiciuokPVM.lt',
     description: 'Nemokama Lietuvos PVM skaičiuoklė. Greitai apskaičiuokite PVM 21%, 9%, 5% tarifais.',
     locale: 'lt_LT',
     type: 'website',
